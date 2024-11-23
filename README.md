@@ -11,5 +11,3 @@ Crafted to capture the essence of Amazon’s layout, this project showcases my a
 🧹 Clean, Structured Code: Written with well-organized HTML and CSS, making it highly maintainable and ready for future scaling.
 
 Looking forward to connecting with professionals and teams who value detailed, desktop-centered design. Let’s connect and create impactful digital experiences together!
-
-#WebDevelopment #AmazonClone #DesktopDesign #HTML #CSS #UIUX #FrontEndDeveloper #CleanCode #UserExperience #GitHubProject #InnovationInTech #HireMe #CareerGrowth
